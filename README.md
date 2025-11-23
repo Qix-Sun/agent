@@ -10,7 +10,7 @@ We used LangChain to build an agent that can analyze the B-scan and fundus image
 - `accelerate>=0.34.0`
 - `peft>=0.14.0`
 - `trl>=0.8.6`
-- `langchain>=0.3.25
+- `langchain>=0.3.25`
 
 ## Datasets
 This study utilized data from three distinct datasets: the Second Affiliated Hospital of Zhejiang University (SAHZU), the First Affiliated Hospital of Zhejiang Chinese Medical University (FAHZC), and the First Affiliated Hospital of Wannan Medical College (FAHWM)
